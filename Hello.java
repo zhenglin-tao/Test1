@@ -1,3 +1,3 @@
-public static void main £¨String[] args£©{
+public static void main ï¼ˆString[] argsï¼‰{
  	System.out.println("hello world");
 }
